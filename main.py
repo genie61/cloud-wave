@@ -26,7 +26,7 @@ def side_bar():
            # options=["Main_Home"],
              options=["Main_Home", "Photo_Gallery"],
             # options=["Main_Home", "Photo_Gallery", "Travel_Attractions"],
-            icons=['bi bi-house', 'bi bi-images', 'bi bi-airplane-engines'],
+            icons=['bi bi-house', 'bi bi-images'],
             menu_icon="cast", 
             default_index=0,
             styles={
